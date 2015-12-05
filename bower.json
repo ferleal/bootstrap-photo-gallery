@@ -11,7 +11,7 @@
     "bootstrap",
     "photo",
     "gallery",
-    "responsive",
+    "responsive"
     ],
   "homepage": "http://michaelsoriano.com/create-a-responsive-photo-gallery-with-bootstrap-framework/",
 
@@ -31,6 +31,6 @@
     "Gruntfile.js",
     "README.md",
     "composer.json",
-    "package.json",
+    "package.json"
   ]
 }
