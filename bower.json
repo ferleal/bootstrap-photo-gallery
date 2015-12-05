@@ -1,0 +1,37 @@
+{
+  "name": "bootstrap-photo-gallery",
+  
+  "main": [
+    "zabuto_calendar.css",
+    "zabuto_calendar.js"
+  ],
+  "version": "0.1",
+
+  "description": "A simple jQuery plugin that will create a Bootstrap based Photo Gallery for your images http://michaelsoriano.com/create-a-responsive-photo-gallery-with-bootstrap-framework/",
+  "keywords": [
+    "bootstrap",
+    "photo",
+    "gallery",
+    "responsive",
+    ],
+  "homepage": "http://michaelsoriano.com/create-a-responsive-photo-gallery-with-bootstrap-framework/",
+
+  "dependencies": {
+    "jquery": ">=1.10",
+    "bootstrap": ">=3.3.5"
+  },
+
+  "licenses": [
+        {
+            "type": "MIT",
+        }
+    ],
+  "ignore": [
+    ".gitignore",
+    "CONTRIBUTING.md",
+    "Gruntfile.js",
+    "README.md",
+    "composer.json",
+    "package.json",
+  ]
+}
