@@ -2,8 +2,7 @@
   "name": "bootstrap-photo-gallery",
   
   "main": [
-    "zabuto_calendar.css",
-    "zabuto_calendar.js"
+    "jquery.bsPhotoGallery.js"
   ],
   "version": "0.1",
 
